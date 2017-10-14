@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 70bbd5662b298603df342b010bfa7abadbe74b27 dposokhov <p-blank12@yandex.ru> 1502048914 +0300	commit (initial): Add current contents of password store.
+70bbd5662b298603df342b010bfa7abadbe74b27 146a5c59d075e79efc22b37d090b97e7002017e4 root <root@localhost> 1502053102 +0300	commit: [ANDROID PwdStore] Добавил  test2  из хранилища.
+146a5c59d075e79efc22b37d090b97e7002017e4 eae5d6263f2882452ef2f44043d6936c22dd7a29 dposokhov <p-blank12@yandex.ru> 1502054060 +0300	commit: Add generated password for gosuslugi.
+eae5d6263f2882452ef2f44043d6936c22dd7a29 002b3796a40313aed96feda21c5553b4469a0712 dposokhov <p-blank12@yandex.ru> 1502054111 +0300	commit: Remove gosuslugi from store.
+002b3796a40313aed96feda21c5553b4469a0712 a33d03072af4d6fea3fa2aec98b5bdc5c432d9fb dposokhov <p-blank12@yandex.ru> 1502054181 +0300	commit: Add generated password for gosuslugi.
+a33d03072af4d6fea3fa2aec98b5bdc5c432d9fb c0f7edd339d6d1dbf4fcd9163a859058ae9be12f dposokhov <p-blank12@yandex.ru> 1502107698 +0300	commit: Add generated password for genymotion.com.
+c0f7edd339d6d1dbf4fcd9163a859058ae9be12f 29fe2ea71b017a0391163a7d125cb4fb8efda646 dposokhov <p-blank12@yandex.ru> 1502467034 +0300	commit: Add generated password for acestream.
+29fe2ea71b017a0391163a7d125cb4fb8efda646 ff9d1d89cfc92d2ff5d40ca7b2abd9a03e2fb0e9 dposokhov <p-blank12@yandex.ru> 1502572029 +0300	commit: Add generated password for 1gb.
